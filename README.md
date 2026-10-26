@@ -9,7 +9,7 @@
 
 ## 练习清单
 
-- [ ] git init
+- [x] git init
 - [ ] git add / git status
 - [ ] git commit
 - [ ] git diff
