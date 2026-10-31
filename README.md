@@ -10,7 +10,8 @@
 ## 练习清单
 
 - [x] git init
-- [ ] git add / git status
-- [ ] git commit
-- [ ] git diff
-- [ ] git log
+- [x] git add / git status
+- [x] git commit
+- [x] git diff
+- [x] git log
+- [x] git push -u origin main
